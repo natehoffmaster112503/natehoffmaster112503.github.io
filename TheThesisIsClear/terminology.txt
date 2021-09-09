@@ -1,0 +1,163 @@
+views=`analyze the intricacies of the
+view the hypothesis as a
+theorize the symbolic nature of the
+understand the symbology of the
+create a subconscious imagery which utilizes a`;
+
+field_adjs=`quaternion
+complex
+theoretical
+kafkaesque
+imaginary
+renaissance-era
+reformation-induced
+ancient greek
+ancient roman
+classical antiquity
+golden age theorem on
+literal
+firgurative
+metaphorical
+allegorical
+cosmic
+deified
+non-partisan
+verbacious
+vivid
+color-charged
+philosophical
+Freudian
+socratic
+platonic
+newtonian
+chaucer-esque
+Beowulf-like
+epic poetry style
+journey-based
+computational
+conjecture-based
+hypothetical
+cartesian`;
+
+field_names=`cosmology
+religious theory
+mythology
+metaphor
+allegory
+radiation
+existentialism
+school of thought
+logic
+universe
+multiverse
+moral
+theme
+connection
+algebra
+probability
+generality
+polarity`;
+
+verbs=`arbitrarily assigns
+symbolizes
+directs
+deluges
+floods
+biblically describes
+spiritually communicates
+makes sense of
+solves the problem of
+relates
+compares
+contrasts
+generalizes
+annotates
+generalizes
+speciates
+evolves
+diverges
+converges
+integrates
+derives
+distinguishes
+artificially selects
+reforms
+curves
+gives away
+factors
+divides and conquers
+predicts
+linguistically portrays
+organizes`;
+
+subject_adjs=`quantum
+macroscopic
+psychological
+Jungian
+entropic
+disorderly
+completely closed
+true
+false
+unsealed
+traveling
+expanding
+infusing
+relativistic
+Homeric
+Abrahamic
+seraphic
+transcendent
+omniscient
+pressurized
+pulsing
+spacetime-bending
+binary
+sequential
+unperturbed
+infinitesimal
+superluminal
+superfluous
+quasi-magic
+toric
+spherical
+voxelated
+hyperspacial
+hypervelocity
+informative
+galactic
+exoplanetary`;
+
+subject_names=`mind field
+subconscience
+anima
+animus
+singularity
+technological singularity
+technology
+quasar-space
+radius
+traversion
+omnipotence
+deity
+sin
+dreamscape
+vacuum
+axiom
+postulate
+scripture
+nodes
+texts
+scrolls
+stories
+strings
+vedas
+arts
+music theory
+game
+transference
+psychochemical interaction
+evidence
+proofs of originality
+files
+uncoverings`;

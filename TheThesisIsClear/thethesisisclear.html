@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>The Thesis is Clear!</title>
+	<style type="text/css">
+		body{
+			text-align: center;
+			font-family: serif;
+			font-size: 70px;
+		}
+	</style>
+</head>
+<body>
+	<script src="terminology.txt"></script>
+	<script type="text/javascript">
+		var view, field_adj, field_name, verb, subject_adj, subject_name;
+
+		if (typeof(views) == "undefined"){
+		    	setTimeout("dosomething()",500);  //call back until defined
+			}
+		else{
+			var views_arr = views.split("\n");
+			var field_adj_arr = field_adjs.split("\n");
+			var field_name_arr = field_names.split("\n");
+			var verb_arr = verbs.split("\n");
+			var subject_adj_arr = subject_adjs.split("\n");
+			var subject_name_arr = subject_names.split("\n");
+
+	    	view = views_arr[Math.floor(Math.random() * views_arr.length)];
+	    	field_adj = field_adj_arr[Math.floor(Math.random() * field_adj_arr.length)];
+	    	field_name = field_name_arr[Math.floor(Math.random() * field_name_arr.length)];
+	    	verb = verb_arr[Math.floor(Math.random() * verb_arr.length)];
+	    	subject_adj = subject_adj_arr[Math.floor(Math.random() * subject_adj_arr.length)];
+	    	subject_name = subject_name_arr[Math.floor(Math.random() * subject_name_arr.length)];
+		}
+			
+		document.write("The thesis is clear! Just " + view + "\n" + field_adj + "\n" + field_name + "\nwhich " + verb + "\nthe " + subject_adj + "\n" + subject_name + "!");
+	</script>
+</body>
+</html>

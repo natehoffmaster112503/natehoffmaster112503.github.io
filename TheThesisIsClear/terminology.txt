@@ -2,7 +2,7 @@ views=`analyze the intricacies of the
 view the hypothesis as a
 theorize the symbolic nature of the
 understand the symbology of the
-create a subconscious imagery which utilizes a`;
+create a hyperreal image of the subconscious which utilizes a`;
 
 field_adjs=`quaternion
 complex
@@ -16,21 +16,21 @@ ancient roman
 classical antiquity
 golden age theorem on
 literal
-firgurative
+figurative
 metaphorical
 allegorical
 cosmic
 deified
 non-partisan
-verbacious
+verbose
 vivid
 color-charged
 philosophical
 Freudian
-socratic
+Socratic
 platonic
-newtonian
-chaucer-esque
+Newtonian
+Chaucer-esque
 Beowulf-like
 epic poetry style
 journey-based
@@ -122,14 +122,14 @@ quasi-magic
 toric
 spherical
 voxelated
-hyperspacial
+hyperspatial
 hypervelocity
 informative
 galactic
 exoplanetary`;
 
 subject_names=`mind field
-subconscience
+subconscious
 anima
 animus
 singularity
@@ -137,7 +137,7 @@ technological singularity
 technology
 quasar-space
 radius
-traversion
+travel
 omnipotence
 deity
 sin
@@ -151,12 +151,12 @@ texts
 scrolls
 stories
 strings
-vedas
+Vedas
 arts
 music theory
 game
 transference
-psychochemical interaction
+psycho-chemical interaction
 evidence
 proofs of originality
 files
